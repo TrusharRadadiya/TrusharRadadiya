@@ -1,4 +1,4 @@
-
+![Game Dev](https://github.com/TrusharRadadiya/TrusharRadadiya/blob/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Trushar</h1>
 <h3 align="center">A passionate game developer from India</h3>
