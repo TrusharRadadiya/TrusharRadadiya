@@ -40,13 +40,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/trushar-radadiya-84972b1a3" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="trushar-radadiya-84972b1a3" height="40" width="40" />
-</a>
-<a href="https://instagram.com/gamedev.trushar" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="gamedev.trushar" height="40" width="40" />
-</a>
-<a href="https://www.youtube.com/@gamedev.trushar" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="@gamedev.trushar" height="40" width="40" />
-</a>
+  <a href="https://linkedin.com/in/trushar-radadiya-84972b1a3" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="trushar-radadiya-84972b1a3" height="40" width="40" />
+  </a>&nbsp;
+  <a href="https://instagram.com/gamedev.trushar" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="gamedev.trushar" height="40" width="40" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@gamedev.trushar" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="@gamedev.trushar" height="40" width="40" />
+  </a>
 </p>
