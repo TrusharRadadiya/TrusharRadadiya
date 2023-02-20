@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trusharradadiya&label=Profile%20views&color=0e75b6&style=flat" alt="trusharradadiya" /> </p>
 
-- 🔭 I’m currently working on **2 Cars 3D game**
+- 🔭 I’m currently working on **Super Mario Bros game**
 - 🌱 I’m currently learning **video editing**
 - 💬 Ask me about **game development, games, anime, cinema**
 - 📫 How to reach me **trusharradadiya1705@outlook.com**
